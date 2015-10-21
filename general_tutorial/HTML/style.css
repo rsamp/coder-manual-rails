@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#blue-text {
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
